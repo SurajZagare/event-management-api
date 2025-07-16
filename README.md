@@ -13,6 +13,9 @@ This is a RESTful API built with **Node.js**, **Express.js**, and **PostgreSQL**
 - dotenv
 - moment.js
 
+#screenshot #
+![Live Demo Screenshot](https://github.com/SurajZagare/event-management-api/blob/b24025ae02980c1b34f1cab402b2c75a35db481c/Screenshot%202025-07-16%20150623.png)
+>
 ---
 
 ## 🚀 Setup Instructions
